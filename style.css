@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;1,300;1,600&display=swap');
+
+body{
+    background: linear-gradient(90deg,#f6e7e7 0%, #FFDEDE 80%);
+    background-image:url(image/Diseño\ sin\ título.jpg);
+}
+.h1{
+    color: rgb(0, 0, 0);
+    font-family:'Titillium Web', sans-serif;
+    font-style:italic;
+    font-size: 2rem;
+    text-align:center;
+}
+.image{
+    width: 150px;
+    height: 180px;
+    margin-left:44%;
+    box-shadow: 10px 10px 5px 0px #E4A4A4;
+}
+.presentacion {
+
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size: 1.3rem;
+    text-align:center;
+    word-spacing:10px;
+}
+.datos-personales {
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+.lista-ordenada{
+    list-style: circle;
+    list-style-position: inside;
+    font-family:'Titillium Web', sans-serif; ;
+}
+.datos-de-contacto{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1.5rem;
+    text-decoration: underline;
+}
+.nombre{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1rem;
+}
+.apellido{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1rem;
+}
+.email{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1rem;
+}
+.telefono{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1rem;
+}
+.mensaje{
+    color: black;
+    font-family:'Titillium Web', sans-serif;
+    font-size:1.3rem;
+    text-decoration: underline;
+}
